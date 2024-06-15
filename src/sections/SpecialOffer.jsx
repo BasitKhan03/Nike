@@ -28,7 +28,7 @@ const SpecialOffer = () => {
 
       <div
         className="flex flex-1 flex-col"
-        data-aos="fade-up-left"
+        data-aos="fade-up"
         data-aos-duration="1500"
       >
         <h2 className="font-palanquin text-4xl capitalize font-bold lg:max-w-lg">

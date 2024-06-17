@@ -18,7 +18,7 @@ const SuperQuality = () => {
     >
       <div
         className="flex flex-1 flex-col xl:pl-5"
-        data-aos="fade-down"
+        data-aos="fade-up"
         data-aos-duration="1500"
       >
         <h2 className="font-palanquin text-4xl capitalize font-bold lg:max-w-lg">
